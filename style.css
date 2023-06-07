@@ -21,3 +21,7 @@
     flex-direction: column;
     justify-content: left;
 }
+.menu {
+    display: flex;
+    justify-content: center;
+}
